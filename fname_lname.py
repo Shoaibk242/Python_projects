@@ -1,0 +1,5 @@
+print("Enter your values seperated by comma ")
+l=input().split(",")
+print("Generated list is ",l)
+t=tuple(l)
+print("Generated tuple is ",t)
