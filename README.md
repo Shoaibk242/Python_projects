@@ -1,5 +1,2 @@
-# Chain_reaction
-C++
-this is the first file created by me 
-we will be exploring more after the exam
-go nuclear
+This repository includes some of my python projects.
+You need python installed in your sysytem o run these.
